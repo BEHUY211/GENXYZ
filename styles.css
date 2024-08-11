@@ -1,0 +1,33 @@
+* {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.logo-image {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 0 16px 0 8px;
+}
+
+.gen-color {
+    color: #95c4fc;
+}
+
+.gen-background {
+    background-color: #95c4fc;
+}
+
+.header-banner {
+    width: 50vw;
+    height: auto;
+}
+
+.custom-margin {
+   margin-left: 20%;    
+}
+
+.header-item-text {
+    font-size: 24px;
+}
